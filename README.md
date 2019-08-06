@@ -1,3 +1,23 @@
+## Final Project: Part 1
+
+[![Final-Stories-Project.png](https://i.postimg.cc/LstDG8nb/Final-Stories-Project.png)](https://postimg.cc/KKYtMF7P)
+[![Shorthand-Template2.png](https://i.postimg.cc/yNq9CMrc/Shorthand-Template2.png)](https://postimg.cc/dhBD8xFV)
+
+# Data
+
+For this project I plan to use data from two sources: UNICEF Reports on Global Water Access and Urbanization and the Global Freshwater Initiative, a Program of the Standford Woods Institute for the Environment. I chose these sources because they had comprehensive yet simple data on clean drinking water access over time around the world and an assessment on future freshwater availability in the global south.
+
+UNICEF: https://data.unicef.org/topic/water-and-sanitation/drinking-water/
+
+Global Freshwater Initiative: https://iopscience.iop.org/article/10.1088/1748-9326/10/10/104014/pdf
+
+I plan to use the UNICEF data on basic drinking water access in the global south from 2000 to 2017, data on percent change in urbanization, and change in piping (water infrastructure). I plan to extract data from the information from the map on page 6 to display freshwater vulnerabilities in the global south. Comparing these data, I will tell the story of progress and future challenges of water access for populations in the global south. 
+
+# Method and Medium
+
+I plan to display my data using Shorthand. For graphics involving a map I found infogram easy to use and plan on using that platform to create an interactive map of the global south. To show trends in urbanization and increasingly inadequate water infrastructure I plan to use Datawrapper's arrow plot or dot plot. 
+
+
 ## Story Board of Final Project 
 
 [Storyboard](https://balsamiq.cloud/sd9kvx4/pyqe8gp/rFD16?f=N4IgUiBcCMA0IDkpxAYWfAMhkAhHAsjgFo4DSUA2gLoC%2BQA%3D)
