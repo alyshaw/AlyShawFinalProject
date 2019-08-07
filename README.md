@@ -56,3 +56,19 @@ Next, I had to show the projected change in water scarcity which was a bit diffi
 
 [Shorthand Link: The Future of Water](https://carnegiemellon.shorthandstories.com/futureofwater/index.html)
 
+
+## Increase in Water Access Around the World
+
+<script id="infogram_0_79a47eb7-7d0c-41f3-aaa0-6ed9c8d8e801" title="Step by Step Charts" src="https://e.infogram.com/js/dist/embed.js?dzn" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/79a47eb7-7d0c-41f3-aaa0-6ed9c8d8e801" style="color:#989898!important;text-decoration:none!important;" target="_blank">Step by Step Charts</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+
+## Change in Water Access by Country Maps
+
+<script id="infogram_0_fa4ac9bf-89cd-4898-9663-d59a9f7c1fc3" title="World Map" src="https://e.infogram.com/js/dist/embed.js?n8N" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/fa4ac9bf-89cd-4898-9663-d59a9f7c1fc3" style="color:#989898!important;text-decoration:none!important;" target="_blank">World Map</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+<script id="infogram_0_e5cc5de6-88a2-420b-ae2c-493454b73039" title="2017 World Map" src="https://e.infogram.com/js/dist/embed.js?IjZ" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/e5cc5de6-88a2-420b-ae2c-493454b73039" style="color:#989898!important;text-decoration:none!important;" target="_blank">2017 World Map</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
+
+
+## Human Impact of Freshwater Scarcity
+
+<script id="infogram_0_71b3d068-6046-4b38-b049-603e859f7ce7" title="Teal Light" src="https://e.infogram.com/js/dist/embed.js?of6" type="text/javascript"></script><div style="padding:8px 0;font-family:Arial!important;font-size:13px!important;line-height:15px!important;text-align:center;border-top:1px solid #dadada;margin:0 30px"><a href="https://infogram.com/71b3d068-6046-4b38-b049-603e859f7ce7" style="color:#989898!important;text-decoration:none!important;" target="_blank">Teal Light</a><br><a href="https://infogram.com" style="color:#989898!important;text-decoration:none!important;" target="_blank" rel="nofollow">Infogram</a></div>
