@@ -54,6 +54,5 @@ I had to try out different graphs and work with data that was collected slightly
 
 Next, I had to show the projected change in water scarcity which was a bit difficult with the GIS map. The map series shows water scarcity by basin which is the more scientific way to show it, although in the end I don't think the map series really highlights the increase in water stress as much as I wanted it to. The graphic beneath that map series does a much better job at showing the severity and showing other angles like the impact on agriculture that some readers may not think of when they think of water scarcity. Finally, the icon graphic showing the proportion of people that are projected to live in water scarcity according to the United Nations does the best job, I think, at showing what the human impact will be. If I had more time and space I would also include a graphic showing the projected migration patterns that will result around the world from both areas that will soon be below sea level and areas that will no longer have any access to freshwater for drinking. 
 
-[Shorthand Link]
-
+[Shorthand Link]https://carnegiemellon.shorthandstories.com/futureofwater/index.html
 
